@@ -1,12 +1,3 @@
-# output dir
-output
-output_demo
-
-
-*.jpg
-*.png
-*.txt
-
 # compilation and distribution
 __pycache__
 _ext
